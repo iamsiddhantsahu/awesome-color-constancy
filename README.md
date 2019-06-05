@@ -37,3 +37,4 @@ Cuarted list of papers and resources for Color Constancy and Illumination Estima
 
 ## Useful Links 
 * colorconstancy.com 
+* https://ipg.fer.hr/ipg/resources/color_constancy
