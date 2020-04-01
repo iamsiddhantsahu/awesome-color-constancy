@@ -1,6 +1,16 @@
 # Awesome Color Constancy
 Cuarted list of papers and resources for Color Constancy and Illumination Estimation problem
 
+### 2020
+* "[Learning to Correct Overexposed and Underexposed Photos](https://arxiv.org/pdf/2003.11596.pdf)" *Afifi et al.*
+* "[Modeling Defocus-Disparity in Dual-Pixel Sensors](https://abhijithpunnappurath.github.io/ICCP2020.pdf)" *Punnappurath et al.*
+* "[What Else Can Fool Deep Learning? Addressing Color Constancy Errors on Deep Neural Network Performance](https://arxiv.org/pdf/1912.06960.pdf)" *Afifi et al.*
+* "[When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Images](http://openaccess.thecvf.com/content_CVPR_2019/papers/Afifi_When_Color_Constancy_Goes_Wrong_Correcting_Improperly_White-Balanced_Images_CVPR_2019_paper.pdf)" *Afifi et al.* (CVPR 2019)
+* "[Image Recoloring Based on Object Color Distributions](http://cvil.eecs.yorku.ca/projects/public_html/image_recoloring/files/Image_Recoloring_Based_on_Object_Color_Distributions.pdf)" *Afifi et al.* (EUROGRAPHICS 2019)
+* "[Sensor-Independent Illumination Estimation for DNN Models](https://bmvc2019.org/wp-content/uploads/papers/0105-paper.pdf)" *Afifi et al.* (BMVC 2019)
+* "[Color Temperature Tuning: Allowing Accurate Post-Capture White-Balance Editing](http://cvil.eecs.yorku.ca/projects/public_html/ColorTemperatureTuning/files/ColorTemperatureTuning.pdf)" *Afifi et al.*
+* "[As-Projective-As-Possible Bias Correction for Illumination Estimation Algorithms](http://cvil.eecs.yorku.ca/projects/public_html/APAP_bias_correction/APAP-bias-correction.pdf)" *Afifi et al.*
+
 ## Papers
 ### 2017
 * "[FC4: Fully Convolutional Color Constancy with Confidence-weighted Pooling](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)" *Hu et al.* (CVPR 2017) [[Code](https://github.com/yuanming-hu/fc4)]
